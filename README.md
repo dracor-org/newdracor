@@ -9,4 +9,5 @@ creating a new repository you need to:
   - replace all instances of "new" with the short name of the new corpus
   - edit the `<title>` element
   - edit the `<projectDesc>`
+  - edit the `<revisionDesc>` to reflect the current date and status
 - edit this README and replace this text with information about your corpus

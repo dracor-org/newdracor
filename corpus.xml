@@ -23,5 +23,8 @@
         </p>
       </projectDesc>
     </encodingDesc>
+    <revisionDesc>
+      <change when="yyyy-mm-dd" status="proposed"/>
+    </revisionDesc>
   </teiHeader>
 </teiCorpus>
