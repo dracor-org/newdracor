@@ -3,12 +3,12 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Xxx Drama Corpus</title>
+        <title>New Drama Corpus</title>
       </titleStmt>
       <publicationStmt>
         <publisher>DraCor</publisher>
-        <idno type="URI" xml:base="https://dracor.org/">xxx</idno>
-        <idno type="repo">https://github.com/dracor-org/xxxdracor</idno>
+        <idno type="URI" xml:base="https://dracor.org/">new</idno>
+        <idno type="repo">https://github.com/dracor-org/newdracor</idno>
         <availability>
           <licence target="https://creativecommons.org/share-your-work/public-domain/cc0/">
             CC0
